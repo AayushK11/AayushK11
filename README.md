@@ -16,6 +16,7 @@
 <a href="https://github.com/AayushK11/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AayushK11&count_private=true&theme=midnight-purple" />
 </a>
+	<br/><br/>
 <a href="https://github.com/AayushK11/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AayushK11&layout=compact&theme=midnight-purple" />
 </a>
