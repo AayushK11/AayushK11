@@ -21,7 +21,10 @@
 
 <a href="https://github.com/AayushK11/">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AayushK11&theme=dark" />
-</a>
+</a>	
+	
+<br/><br/>
+	
 <a href="https://github.com/AayushK11/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AayushK11&layout=compact&theme=midnight-purple" />
 </a>
