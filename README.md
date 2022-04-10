@@ -18,7 +18,11 @@
 </a>
 	<br/><br/>
 <a href="https://github.com/AayushK11/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AayushK11&layout=compact&theme=midnight-purple" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AayushK11&theme=dark" />
+</a>	
+	<br/><br/>
+<a href="https://github.com/AayushK11/">
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=AayushK11&theme=react-dark" />
 </a>
 </div>
 
