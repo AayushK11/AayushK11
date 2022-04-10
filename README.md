@@ -12,6 +12,17 @@
 
 ## 
 
+<div align="center">
+<a href="https://github.com/AayushK11/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AayushK11&count_private=true&theme=midnight-purple" />
+</a>
+<a href="https://github.com/AayushK11/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AayushK11&layout=compact&theme=midnight-purple" />
+</a>
+</div>
+
+##
+
 Profile Visits  : ![](https://komarev.com/ghpvc/?username=AayushK11&color=green)
 
 🗨️ Deep Learning, Django, React, Apex, and LWC. You name it, I know it.<br/>
