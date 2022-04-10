@@ -1,13 +1,14 @@
-<center>
-	<h1 > Hi, I'm Aayush 👋 </h1>
-  <h3>
-    Full Stack Developer By Day, 
-    <br/>
-    Deep Learning Engineer By Night.
-    <br/>
-    Oh, And a Salesforce Developer too.....
-  <h3/>
-</center>
+<p style="text-align: center;">
+	<h1 align="center"> Hi, I'm Aayush 👋 </h1>
+</p>
+	<h3 align="center" >
+	    Full Stack Developer By Day, 
+	    <br/>
+	    Deep Learning Engineer By Night.
+	    <br/>
+	    Oh, And a Salesforce Developer too.....
+	<h3/>
+</p>
 
 ## 
 
