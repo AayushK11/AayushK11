@@ -5,8 +5,6 @@
 	    Full Stack Developer By Day, 
 	    <br/>
 	    Deep Learning Engineer By Night.
-	    <br/>
-	    Oh, And a Salesforce Developer too.....
 	<h3/>
 </p>
 
