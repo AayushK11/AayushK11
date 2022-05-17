@@ -38,7 +38,7 @@
 
 Profile Visits  : ![](https://komarev.com/ghpvc/?username=AayushK11&color=green)
 
-🗨️ Deep Learning, Django, React, Apex, and LWC. You name it, I know it.<br/>
+🗨️ Deep Learning, Django, React, Android, Flutter.<br/>
 📫 Email me at [aayush.kumaria@gmail.com](mailto:aayush.kumaria@gmail.com@gmail.com). Because Why Not?<br/>
 💻 Jump to my projects [here](https://github.com/AayushK11?tab=repositories). If its public, you can use it.<br/>
 📓 And this is my [resume](https://drive.google.com/file/d/1z1htuorjwu7oxx0eY5hldqgnzL4mVdZB/view?usp=sharing). Looks good, doesnt it?
